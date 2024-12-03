@@ -6,7 +6,7 @@
 
 Phiên bản Node.js sử dụng là Node.js: [v16.13.1](https://nodejs.org/dist/v16.13.1/node-v16.13.1-x86.msi) (hoặc phiên bản v16 cùng cấp)
 
-![screenshot](https://github.com/DPT274/Tl-Nodejs-React.git)
+![screenshot](https://github.com/DPT274/Tl-Nodejs-React)
 
 ## Hướng phát triển trong tương lai:
 -	Áp dụng công nghệ như AI, Machine Learning để gợi ý sản phẩm cho khách hàng
