@@ -54,7 +54,7 @@ CVC: 567
 
 ```
 # Video hướng dẫn chi tiết:
-Nhấn tại đây: [Xem video hướng dẫn chi tiết chạy chương trình](https://drive.google.com/file/d/1CTjpY9v9h3TU0Xj16wziNMQJuZRwl0_b/view?usp=sharing)
+Nhấn tại đây: [Xem video hướng dẫn chi tiết chạy chương trình](https://youtu.be/td-QbgrkhP8?si=MYbnhSxYuoMb1U_J)
 
 <p align="center">
 	<img src="https://i.pinimg.com/originals/56/a7/b8/56a7b8e4953907848148e15efa28ae81.gif" width = "500" alt="TNT">
